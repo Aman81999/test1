@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="ASB">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>ASB BOT</b>
 </h1>
 
 
